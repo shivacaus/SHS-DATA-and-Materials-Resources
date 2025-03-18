@@ -10,9 +10,10 @@ THIS CONTAINS 1. MATERIALS-TEACHING MATERIALS FOR BE/MSC/INTRANCE
 THIS WILL BE USEFUL FOR TEACHER/STUDENTS/RESEARCHERS/JOORNAL EDITORS/REVIEWERS....
 
 ## How to Use
-1. 
-2. 
+1. PUBLIC
+2. ONE can access the repository via URL: https://github.com/shivacaus/SHS-DATA-and-Materials-Resources
+
 
 ## License
-This project is licensed under MIT.
+personal
       
